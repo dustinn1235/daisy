@@ -2,9 +2,9 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="flex flex-col">
-      <h1 className="self-center text-5xl pt-16">ABOUT ME</h1>
-      <div className="self-center w-[70%] grid grid-cols-2 pt-8 gap-6">
+    <div className="flex flex-col py-20">
+      <h1 className="self-center text-5xl">ABOUT ME</h1>
+      <div className="self-center w-[70%] grid grid-cols-2 pt-14 gap-6">
         <div>
           <p className="text-3xl">Get to know me!</p>
           <p className="pt-4 text-lg">

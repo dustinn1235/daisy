@@ -6,7 +6,7 @@ const MainHome = () => {
   const words = ["GRAPHIC DESIGNER", "VISUALIZER", "ILLUSTRATOR"];
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen pb-[5%] bg-[#f9f9f9]">
+    <div className="flex flex-col items-center justify-center h-screen bg-[#f9f9f9]">
       <div className="flex flex-col">
         <p className="text-7xl">HEY, I'M TRAN ANH THU</p>
         <p className="ml-auto text-4xl translate-x-8">or Daisy</p>
