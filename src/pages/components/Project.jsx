@@ -1,8 +1,12 @@
 import React from "react";
 
-const Project = () => {
+const Project = ({ reverse }) => {
   return (
-    <div className="flex bg-white w-[60%] h-[30rem] rounded-2xl shadow-lg p-6 gap-10 items-center">
+    <div
+      className={`flex bg-white w-[60%] h-[30rem] rounded-2xl shadow-lg p-6 gap-10 items-center ${
+        reverse && "flex-row-reverse"
+      }`}
+    >
       <img
         className="w-[60%] h-full object-contain rounded-lg shadow-[0_8px_30px_rgb(0,0,0,0.12)]"
         src="cover.jpg"

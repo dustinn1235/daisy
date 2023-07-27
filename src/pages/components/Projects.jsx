@@ -2,10 +2,15 @@ import React from "react";
 import Project from "./Project";
 
 const Projects = () => {
+  const projects = [1, 2, 3];
+
   return (
-    <div className="flex flex-col py-20 bg-[#f9f9f9] items-center">
-      <h1 className="text-5xl pb-12 ">PORTFOLIO</h1>
-      <Project />
+    <div className="flex flex-col py-20 bg-[#f9f9f9] items-center gap-16">
+      <h1 className="text-5xl font-semibold">PORTFOLIO</h1>
+      {projects.map((project, i) => {
+        const reverse = i % 2 == 0;
+        return <Project reverse={reverse} />;
+      })}
     </div>
   );
 };
