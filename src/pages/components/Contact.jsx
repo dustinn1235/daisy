@@ -1,7 +1,7 @@
 import React from "react";
 import { BiLogoGmail, BiLogoInstagramAlt } from "react-icons/bi";
 import { PiBehanceLogoBold } from "react-icons/pi";
-import { FaLinkedinIn, FaFacebookF } from "react-icons/fa";
+import { FaLinkedinIn, FaFacebookF, FaStar } from "react-icons/fa";
 import Link from "next/link";
 
 const Contact = () => {
@@ -39,7 +39,8 @@ const Contact = () => {
   ];
 
   return (
-    <div className="flex flex-col py-20 items-center">
+    <div className="flex flex-col py-20 items-center relative">
+      <div id="contacts" className="absolute h-5 w-full -top-[5rem]"></div>
       <h1 className="self-center text-5xl font-semibold">FIND ME AT</h1>
       <div className="w-[60%] mt-16 flex gap-10">
         {contacts.map((contact) => (
@@ -56,6 +57,10 @@ const Contact = () => {
             </div>
           </div>
         ))}
+      </div>
+      <div className="mt-24 flex flex-col items-center gap-4">
+        <FaStar className="text-[2rem]" />
+        <p className="text-2xl font-medium">THANK YOU {"<"}3</p>
       </div>
     </div>
   );
