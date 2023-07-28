@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
@@ -44,11 +44,11 @@ const Project = ({ reverse }) => {
         >
           <img
             className="min-w-full w-full h-full object-cover shadow-[0_8px_30px_rgb(0,0,0,0.12)]"
-            src="book_illustration/19.jpg"
+            src="book_illustration/1.jpg"
           ></img>
           <img
             className="min-w-full w-full h-full object-cover shadow-[0_8px_30px_rgb(0,0,0,0.12)]"
-            src="book_illustration/11.jpg"
+            src="book_illustration/2.jpg"
           ></img>
         </div>
       </div>
