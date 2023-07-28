@@ -44,7 +44,7 @@ const Contact = () => {
       <h1 className="self-center text-5xl font-semibold">FIND ME AT</h1>
       <div className="w-[60%] mt-16 flex gap-10">
         {contacts.map((contact) => (
-          <div className="flex gap-3 flex-1">
+          <div className="flex gap-3 flex-1" key={contact.iconName}>
             <Link
               href={contact.ref}
               className="h-[4.5rem] aspect-square rounded-full flex items-center justify-center shadow-[0_8px_30px_rgb(0,0,0,0.12)]"

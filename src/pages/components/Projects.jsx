@@ -10,7 +10,7 @@ const Projects = () => {
       <h1 className="text-5xl font-semibold">PORTFOLIO</h1>
       {projects.map((project, i) => {
         const reverse = i % 2 == 0;
-        return <Project reverse={reverse} />;
+        return <Project reverse={reverse} key={i} />;
       })}
     </div>
   );
