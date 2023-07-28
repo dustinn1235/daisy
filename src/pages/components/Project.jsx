@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import {
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
@@ -38,17 +38,16 @@ const Project = ({ reverse }) => {
         </button>
 
         <div
-          className={`w-full max-h-full h-full flex translate-x-[${
-            counter * -100
-          }%] transition-transform duration-500`}
+          className={`transition-all duration-500 w-full max-h-full h-full flex`}
+          style={{ transform: `translateX(${counter * -100}%)` }}
         >
           <img
             className="min-w-full w-full h-full object-cover shadow-[0_8px_30px_rgb(0,0,0,0.12)]"
-            src="book_illustration/1.jpg"
+            src="book_illustration/11.jpg"
           ></img>
           <img
             className="min-w-full w-full h-full object-cover shadow-[0_8px_30px_rgb(0,0,0,0.12)]"
-            src="book_illustration/2.jpg"
+            src="book_illustration/19.jpg"
           ></img>
         </div>
       </div>
@@ -65,7 +64,7 @@ const Project = ({ reverse }) => {
           deserunt excepturi. Quos, perferendis!
         </p>
         <button className="bg-black text-white w-[70%] flex-1 font-bold p-3">
-          CASE STUDY
+          CASE STUDY {counter}
         </button>
       </div>
     </div>
