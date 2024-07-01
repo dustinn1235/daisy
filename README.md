@@ -1,38 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![11](https://github.com/dustinn1235/daisy/assets/60798675/f76732e0-fe9d-430f-89c8-98ccaf18d43e)
+![10](https://github.com/dustinn1235/daisy/assets/60798675/7dc3404d-1f56-4d4b-b7c6-5cc6cbe90fea)
+![9](https://github.com/dustinn1235/daisy/assets/60798675/d420d990-fc04-49ff-8875-da74a4364545)
+![8](https://github.com/dustinn1235/daisy/assets/60798675/7ff04d9b-1243-4932-8639-9306b0aefc8a)
+![7](https://github.com/dustinn1235/daisy/assets/60798675/c8b1abc0-55b1-4aa9-b7f2-7959d78795a8)
+![6](https://github.com/dustinn1235/daisy/assets/60798675/2cdc7b03-ea2a-4b84-ba9f-1066033de9a8)
+![5](https://github.com/dustinn1235/daisy/assets/60798675/17963a8d-ab8d-4921-a041-1d4490423f87)
+![4](https://github.com/dustinn1235/daisy/assets/60798675/ee8e8838-fbd7-4833-bdeb-2a5c3c8c4944)
+![3](https://github.com/dustinn1235/daisy/assets/60798675/acfc5db6-700e-4ae3-8a68-f676518d330c)
+![2](https://github.com/dustinn1235/daisy/assets/60798675/ea45f340-b646-4f59-8ec9-69b57a8fd930)
+![1](https://github.com/dustinn1235/daisy/assets/60798675/6b2e0c36-4053-45bf-9ce0-8cebaac61048)
