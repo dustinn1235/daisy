@@ -1,11 +1,1 @@
-![11](https://github.com/dustinn1235/daisy/assets/60798675/f76732e0-fe9d-430f-89c8-98ccaf18d43e)
-![10](https://github.com/dustinn1235/daisy/assets/60798675/7dc3404d-1f56-4d4b-b7c6-5cc6cbe90fea)
-![9](https://github.com/dustinn1235/daisy/assets/60798675/d420d990-fc04-49ff-8875-da74a4364545)
-![8](https://github.com/dustinn1235/daisy/assets/60798675/7ff04d9b-1243-4932-8639-9306b0aefc8a)
-![7](https://github.com/dustinn1235/daisy/assets/60798675/c8b1abc0-55b1-4aa9-b7f2-7959d78795a8)
-![6](https://github.com/dustinn1235/daisy/assets/60798675/2cdc7b03-ea2a-4b84-ba9f-1066033de9a8)
-![5](https://github.com/dustinn1235/daisy/assets/60798675/17963a8d-ab8d-4921-a041-1d4490423f87)
-![4](https://github.com/dustinn1235/daisy/assets/60798675/ee8e8838-fbd7-4833-bdeb-2a5c3c8c4944)
-![3](https://github.com/dustinn1235/daisy/assets/60798675/acfc5db6-700e-4ae3-8a68-f676518d330c)
-![2](https://github.com/dustinn1235/daisy/assets/60798675/ea45f340-b646-4f59-8ec9-69b57a8fd930)
-![1](https://github.com/dustinn1235/daisy/assets/60798675/6b2e0c36-4053-45bf-9ce0-8cebaac61048)
+
